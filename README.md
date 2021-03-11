@@ -1,4 +1,4 @@
 # responsive-video-background
-###Video background
-###webdev simplified css challenge
+### Video background
+### webdev simplified css challenge
  
